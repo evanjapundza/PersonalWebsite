@@ -1,0 +1,92 @@
+.title1 {
+  font-size: 200;
+}
+
+.headercolumn1 {
+  font-size: 40;
+  padding-left: 22px;
+  padding-top: 14px;
+}
+
+.headercolumn2 {
+  text-align: right;
+  padding-top: 14px;
+}
+
+.bodytext1 {
+  text-align: left;
+}
+
+.text {
+  font-size: 18;
+}
+
+.headerhr {
+  border: 1px solid black;
+}
+
+.linkedin {
+  padding-left: 79px;
+}
+
+.resumetext {
+  text-align: center;
+  font-size: 30;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.navigationbar {
+  float: left;
+  list-style-type: none;
+  font-size: 32;
+  background-color: #DCDCDC;
+  border-right: 1px solid white;
+
+}
+
+li a, .navbar {
+  display: block;
+  color: #696969;
+  text-align: center;
+  padding: 5px 15px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: #C0C0C0;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+footer {
+  opacity: 30%;
+}
+
+.bodyimage {
+  width: 297px;
+}
+
+td a {
+  color: green;
+}
+
+td a:link {
+  text-decoration: none;
+}
+
+td a:hover {
+  color: black;
+}
+
+td a:visited {
+  color: lightblue;
+}
